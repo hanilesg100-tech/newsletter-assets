@@ -1,0 +1,2 @@
+# newsletter-assets
+newsletter-assets
